@@ -1,6 +1,4 @@
 package bsu.rfe.group10.lab4.Nalivayko.varB5;
-//import bsu.rfe.group10.lab4.Nalivayko.varB5.GraphicsMenuListener;
-
 import java.awt.BorderLayout;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
@@ -144,8 +142,6 @@ Double.SIZE/8 байт;
             return;
         }
     }
-
-    //////////////////////////////////////////////////////////////////////////////////
     public static void main(String[] args) {
 // Создать и показать экземпляр главного окна приложения
         MainFrame frame = new MainFrame();

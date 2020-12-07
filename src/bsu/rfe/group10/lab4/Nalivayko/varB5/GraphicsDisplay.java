@@ -281,6 +281,8 @@ minY
 // Вывести надпись в точке с вычисленными координатами
             canvas.drawString("x", (float)(labelPos.getX() -
                     bounds.getWidth() - 10), (float)(labelPos.getY() + bounds.getY()));
+
+
         }
     }
     /* Метод-помощник, осуществляющий преобразование координат.
